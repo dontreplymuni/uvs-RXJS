@@ -167,7 +167,7 @@
     "commitizen": "^2.8.6",
     "coveralls": "^2.11.13",
     "cz-conventional-changelog": "^1.2.0",
-    "danger": "^1.1.0",
+    "danger": "^11.2.1",
     "doctoc": "^1.0.0",
     "escape-string-regexp": "^1.0.5 ",
     "esdoc": "^0.4.7",
@@ -184,7 +184,7 @@
     "lint-staged": "3.2.5",
     "lodash": "^4.15.0",
     "madge": "^1.4.3",
-    "markdown-doctest": "^0.9.1",
+    "markdown-doctest": "^1.1.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^3.0.2",
@@ -211,7 +211,7 @@
     "typings": "^2.0.0",
     "validate-commit-msg": "^2.14.0",
     "watch": "^1.0.1",
-    "webpack": "^1.13.1",
+    "webpack": "^5.75.0",
     "xmlhttprequest": "1.8.0"
   },
   "engines": {
